@@ -30,8 +30,9 @@ func main() {
 
     fmt.Println("Hello")
 }
+```
 
-Explanation
+## Explanation
 
 Channel Creation:
 
